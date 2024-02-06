@@ -1,4 +1,5 @@
 echo enter the number
+
 read n
 cpy=$n
 d=0
