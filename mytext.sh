@@ -1,1 +1,1 @@
-shs
+echo Suman teaching Git Basic
